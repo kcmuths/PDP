@@ -1,0 +1,2 @@
+Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
+1/09	MKC	9:55pm	10:22pm	    5				17		download and installing racket and github
